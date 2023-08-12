@@ -16,3 +16,14 @@
 
 |[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
 |[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
+|[Day 3](#day-3) **17/10/18**| Basic Python:Dictionaries,function,center method,list,set,etc.
